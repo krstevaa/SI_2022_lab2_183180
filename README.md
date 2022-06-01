@@ -12,3 +12,8 @@ Control Flow Graph
 
 Цикломатската комплексност на графот е 10. Се добива со помош на формулата P+1, каде што P е бројот на предикатни јазли.
 
+Тест случаи според критериумот Every statement
+
+![Every statement](https://user-images.githubusercontent.com/82337314/171442585-5849edb2-7ca9-4058-8447-731289d18226.jpg)
+
+
