@@ -16,4 +16,14 @@ Control Flow Graph
 
 ![Every statement](https://user-images.githubusercontent.com/82337314/171442585-5849edb2-7ca9-4058-8447-731289d18226.jpg)
 
+Every Branch критериумот
+
+/
+
+Објаснување на Unit Tests
+
+Причината поради која го тестирате вашиот код е да докажете дека кодот работи. Unit тестовите се пишуваат за да се исполнат условите и да можат да се поминат сите exceptions. Со употреба на assertThrows се фаќаат exceptions кои се праќаат во "ex", a за да може да се провери дали се фрлил соодветниот exception се користи assertTrue за дадениот влез. 
+
+
+
 
